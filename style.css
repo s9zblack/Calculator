@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    margin: 20px auto;
+    width: 600px;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.heading {
+    color: black;
+    text-align: center;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.row__heading{
+    margin-top: 20px;
+    display: inline-block;
+    text-align: right;
+    width: 260px;
+}
+
+.button__sending{
+    margin-top: 20px;
+}
+
+.input__text{
+    padding: 8px 16px;
+}
+
+.input__button{
+    padding: 8px 16px;
+    display: block;
+    margin: auto;
+}
+
+.result{
+    text-align: center;
+    color: black;
+    font-size: 1.4rem;
+}
